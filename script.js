@@ -1130,6 +1130,25 @@ const games = [
     duration: "Unlimited",
     tags: ["arcade", "relaxing", "mobile", "canvas", "petals", "combo"],
   },
+  {
+  name: "Un-tangle",
+  path: "games/un-tangle/index.html",
+  description: "A relaxing puzzle game where you must click and drag nodes to untangle a web of intersecting lines. Features procedurally generated levels for infinite replayability.",
+  icon: "🧩",
+  category: "Puzzle Game",
+  duration: "Endless",
+  tags: ["Puzzle", "Logic", "Relaxing", "Brain Teaser"]
+  },
+  {
+    name: "Perfect Aim",
+    path: "games/perfect-aim/index.html",
+    description: "A fast-paced arcade game of pure timing. Stop the pointer in the target sector to build your combo as the difficulty ramps up with faster speeds and smaller targets.",
+    icon: "🎯",
+    category: "Arcade Game",
+    duration: "Endless",
+    tags: ["Timing", "Reflex", "Arcade", "High Score", "Minimalist"]
+  },
+
 
 ];
 
