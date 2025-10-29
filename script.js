@@ -1147,7 +1147,7 @@ const games = [
     category: "Arcade Game",
     duration: "Endless",
     tags: ["Timing", "Reflex", "Arcade", "High Score", "Minimalist"]
-  },
+  },  
 
 
 ];
